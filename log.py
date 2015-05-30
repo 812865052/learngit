@@ -51,3 +51,4 @@ if __name__ == "__main__":
     print 'dev'
     print 'conflic fixed'
     print 'remote dev'
+    print 'test'
