@@ -49,4 +49,5 @@ if __name__ == "__main__":
     now()
     #print '°æ±¾»ØÍË'
     print 'dev'
+    print 'feature1'
     
