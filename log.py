@@ -47,3 +47,4 @@ def now():
 
 if __name__ == "__main__":
     now()
+    print '°æ±¾»ØÍË'
