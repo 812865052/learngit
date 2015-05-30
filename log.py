@@ -47,4 +47,6 @@ def now():
 
 if __name__ == "__main__":
     now()
-    print '版本回退'
+    #print '版本回退'
+    print 'dev'
+    
