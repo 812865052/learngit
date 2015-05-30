@@ -50,3 +50,4 @@ if __name__ == "__main__":
     #print '°æ±¾»ØÍË'
     print 'dev'
     print 'conflic fixed'
+    print 'remote dev'
