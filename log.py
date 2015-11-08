@@ -1,3 +1,4 @@
+#coding=utf-8
 import functools
 
 
@@ -52,3 +53,4 @@ if __name__ == "__main__":
     print 'conflic fixed'
     print 'remote dev'
     print 'test11122222333344444'
+    print 'add'
